@@ -1,0 +1,24 @@
+Beef Biriyani 
+30
+250.00
+Chicken Biriyani
+50
+170.00
+Chicken Fry
+40
+80.00
+Fried Rice 
+20
+120.00
+Chicken Rice Bowl
+10
+230.00
+Veg Momos
+20
+110.00
+Meat Box 
+15
+210.00
+
+
+ 
